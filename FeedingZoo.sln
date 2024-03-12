@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedingZoo", "FeedingZoo.csproj", "{EFA809F6-8A9C-4C89-BFAD-FCE4444D0FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestFeedingZoo", "..\UnitTestFeedingZoo\UnitTestFeedingZoo.csproj", "{86189ED7-8D8E-4E03-AE23-7EDCA80F42B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA809F6-8A9C-4C89-BFAD-FCE4444D0FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA809F6-8A9C-4C89-BFAD-FCE4444D0FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA809F6-8A9C-4C89-BFAD-FCE4444D0FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA809F6-8A9C-4C89-BFAD-FCE4444D0FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86189ED7-8D8E-4E03-AE23-7EDCA80F42B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86189ED7-8D8E-4E03-AE23-7EDCA80F42B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86189ED7-8D8E-4E03-AE23-7EDCA80F42B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86189ED7-8D8E-4E03-AE23-7EDCA80F42B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE7349C-21B6-4214-A424-065FD300CD66}
+	EndGlobalSection
+EndGlobal
